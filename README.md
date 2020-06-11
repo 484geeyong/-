@@ -1,2 +1,1 @@
-# gee-weather
-Learning React Native by Building a Weather App
+# 프로그래밍어론 공부내용
